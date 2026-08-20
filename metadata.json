@@ -1,0 +1,8 @@
+{
+  "name": "DecodingFinance",
+  "description": "Next-generation professional publishing and intelligence platform for finance, audit, IFRS, market research, and valuation with AI-assisted authoring studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
